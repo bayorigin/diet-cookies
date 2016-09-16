@@ -17,6 +17,9 @@
     "url": "http://github.com/adamhalasz/diet-cookies/issues",
     "email": "mail@adamhalasz.com"
   },
+  "dependencies": {
+    "isset": "^1.0.2"
+  },
   "license": "MIT",
   "author": {
     "name": "Halász Ádám",
