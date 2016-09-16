@@ -1,3 +1,5 @@
+const isset = require('isset');
+
 function Cookies($){
 	this.__proto__.header = [];
 	this.__proto__.signal = $;
